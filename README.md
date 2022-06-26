@@ -50,6 +50,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
+
   ![Screenshot 1](https://media.discordapp.net/attachments/920721844204613652/990576383392628736/unknown.png?width=285&height=598)
   ![Screenshot 2](https://media.discordapp.net/attachments/920721844204613652/990576557825343488/unknown.png?width=283&height=598)
   
